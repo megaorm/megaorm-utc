@@ -1,0 +1,48 @@
+{
+  "name": "@megaorm/utc",
+  "version": "1.1.0",
+  "description": "This package is designed for handling date and time manipulation in UTC (Coordinated Universal Time).",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": "Mohamed",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/megaorm/megaorm-utc.git"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.10.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "test": "npx jest --coverage",
+    "build": "tsc --watch"
+  },
+  "keywords": [
+    "megaorm",
+    "utc",
+    "date-time",
+    "time-manipulation",
+    "utc-time",
+    "date-utils",
+    "time-utils",
+    "date-formatting",
+    "time-formatting",
+    "utc-functions",
+    "date-parsing",
+    "time-parsing",
+    "date-modification",
+    "time-modification",
+    "timestamp",
+    "datetime-utilities",
+    "time-zone",
+    "time-string",
+    "megaorm-utc",
+    "utc-datetime"
+  ],
+  "dependencies": {
+    "@megaorm/test": "^1.2.0"
+  }
+}
